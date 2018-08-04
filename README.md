@@ -1,5 +1,5 @@
 # Config_Setup
-# Running the Application
+# Running the Application (Industrial-Visual-Analysis)
 Follow these steps to setup and run the application. The steps are described in detail below.
 
 ## Steps
