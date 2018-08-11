@@ -14,7 +14,7 @@ Create the [Watson Visual Recognition](https://www.ibm.com/watson/services/visua
 
 * Open a command line interface (CLI) on your desktop and clone this repo:
 ```
-git clone https://github.com/IBM/Predictive-Industrial-Visual-Analysis
+git clone https://github.com/technoindianjr/Predictive-Industrial-Visual-Analysis
 ```
 
 * Go to the folder where the images are placed
